@@ -1,5 +1,6 @@
 #! /bin/bash
 
+# From personal experience, Windows needs some extra help getting Docker started
 if [[ "$OSTYPE" == "cygwin" || "$OSTYPE" == "msys" ||  "$OSTYPE" == "win32" ]]; then
   docker machine start
   eval "$(docker-machine env default)"
