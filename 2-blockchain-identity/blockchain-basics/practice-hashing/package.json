@@ -1,0 +1,11 @@
+{
+  "name": "practice-hashing",
+  "version": "1.0.0",
+  "description": "Practicing hashing",
+  "private": "true",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "author": "liamseanbrady",
+  "license": "ISC"
+}
