@@ -5,6 +5,7 @@ const generateHash = function(secretToHash) {
   return sha256(stringSecret).toString()
 }
 
+// Generate some data for hashing (for testing purposes)
 const data1 = "Blockchain Rock!";
 const dataObject = {
   id: 1,
@@ -12,6 +13,8 @@ const dataObject = {
     time: new Date().getTime().toString().slice(0,-3)
 };
 
-console.log(`SHA256 Hash: ${generateHash(data1)}`);
-console.log("************************************");
-console.log(`SHA256 Hash: ${generateHash(dataObject)}`);
+// Just some testing of the function
+// console.log(`SHA256 Hash: ${generateHash(data1)}`);
+// console.log(`SHA256 Hash: ${generateHash(dataObject)}`);
+
+module.exports = generateHash
