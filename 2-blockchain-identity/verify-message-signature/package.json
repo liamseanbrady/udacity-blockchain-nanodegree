@@ -1,0 +1,12 @@
+{
+  "name": "verify-message-signature",
+  "version": "1.0.0",
+  "description": "Practicing verifying message signatures",
+  "private": "true",
+  "dependencies": {
+    "bitcoinjs-message": "^2.0.0",
+    "bitcoinjs-lib": "^3.0.0"
+  },
+  "author": "liamseanbrady",
+  "license": "ISC"
+}
