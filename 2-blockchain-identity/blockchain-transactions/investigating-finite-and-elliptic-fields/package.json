@@ -1,0 +1,10 @@
+{
+  "name": "investigating-finite-and-elliptic-fields",
+  "version": "1.0.0",
+  "description": "Investigating how finite and elliptic fields work",
+  "private": "true",
+  "dependencies": {
+  },
+  "author": "liamseanbrady",
+  "license": "ISC"
+}
