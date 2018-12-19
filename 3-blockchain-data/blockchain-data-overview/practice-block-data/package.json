@@ -1,0 +1,11 @@
+{
+  "name": "verify-message-signature",
+  "version": "1.0.0",
+  "description": "Practicing verifying message signatures",
+  "private": "true",
+  "dependencies": {
+    "blockexplorer": "^1.0.1"
+  },
+  "author": "liamseanbrady",
+  "license": "ISC"
+}
