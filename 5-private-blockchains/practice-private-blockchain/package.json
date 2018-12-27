@@ -1,0 +1,13 @@
+{
+  "name": "practice-private-blockchain",
+  "version": "1.0.0",
+  "description": "Practice building a private blockchain",
+  "private": "true",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "bytewise": "^1.1.0",
+    "level": "^3.0.2"
+  },
+  "author": "liamseanbrady",
+  "license": "ISC"
+}
