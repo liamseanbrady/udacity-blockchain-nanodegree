@@ -1,0 +1,13 @@
+{
+  "name": "merkle-tree-practice",
+  "version": "1.0.0",
+  "description": "Practicing building a Merkle tree",
+  "private": "true",
+  "dependencies": {
+    "blockexplorer": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "js-sha256": "^0.9.0"
+  },
+  "author": "liamseanbrady",
+  "license": "ISC"
+}
